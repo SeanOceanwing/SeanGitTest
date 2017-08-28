@@ -3,6 +3,7 @@
 
 
 int main() {
-  printf("hello world");
+  char msg[] = "git test project";
+  printf("%s \n", msg);
   return 0;
 }
