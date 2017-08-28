@@ -2,7 +2,6 @@
 
 
 void T1011() {
-
   printf("T1011 is coding ... \n");
   printf("T1011 is testing ... \n");
   printf("T1011 is fix bug ... \n");
@@ -18,6 +17,11 @@ void T1012() {
   printf("T1012 is fix bug ... \n");
   printf("T1012 is test pass ... \n");
 }
+
+void T2017() {
+  printf("T2017 is coding ... \n");
+}
+
 
 int main() {
   char msg[] = "------------Eufy Home---------";
