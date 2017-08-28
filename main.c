@@ -4,6 +4,7 @@ void T1011() {
   printf("T1011 is coding ... \n");
   printf("T1011 is testing ... \n");
   printf("T1011 is fix bug ... \n");
+  printf("T1011 is test pass ... \n");
   printf("T1011 is release ... \n");
 }
 
