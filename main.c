@@ -18,4 +18,5 @@ int main() {
   T1012();
 
   return 0;
+
 }
