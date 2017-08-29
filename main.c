@@ -14,7 +14,7 @@ void T1011() {
 }
 
 void T1012() {
-  printf("T1012 is coding ... \n");
+  printf("\n\nT1012 is coding ... \n");
   printf("T1012 is testing ... \n");
   printf("T1012 is fix bug ... \n");
   printf("T1012 is test pass ... \n");
