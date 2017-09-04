@@ -18,6 +18,8 @@ void T1012() {
   printf("T1012 is test pass ... \n");
 }
 
+afdsfasdfasdfasdfasf
+
 int main() {
   char msg[] = "------------Eufy Home---------";
   printf("%s \n\n", msg);
