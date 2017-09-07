@@ -15,9 +15,7 @@ void T1012() {
 int main() {
   char msg[] = "------------Eufy Home---------";
   printf("%s \n\n", msg);
-
   T1011();
   T1012();
-
   return 0;
 }
