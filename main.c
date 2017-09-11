@@ -9,6 +9,5 @@ int main() {
   printf("%s \n\n", msg);
 
   T1011();
-
   return 0;
 }
